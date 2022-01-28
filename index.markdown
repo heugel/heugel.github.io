@@ -8,14 +8,14 @@ layout: home
 ---
 Hello!  My name is Itzik, and I'm a math tutor based in the Ann Arbor area.  I've been tutoring math for over 10 years and am capable of helping with a variety of classes, including Algebra 2, Trig, Calculus, and more.
 
-<br><br>
+<br>
 
 I have a BS in Judaic Studies from University of Michigan
 
-<br><br>
+<br>
 
 For students near Ann Arbor, I am available for in-person assistance.  For students around the world, let's meet over [Discord](discord.com) and use the [Miro](miro.com) online whiteboard application.
 
-<br><br>
+<br>
 
 [Any questions?  Please reach out!](./contact.markdown)
