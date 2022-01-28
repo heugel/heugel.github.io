@@ -4,6 +4,6 @@
 
 layout: home
 title: Home
-permalink: /index/
+#permalink: /index/
 ---
 [Welcome to the Jungle](./contact.markdown)
