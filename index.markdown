@@ -18,6 +18,8 @@ excerpt: "Always available to help get you the grades you want"
 intro: 
   - excerpt: "Let's get started"
 ---
+{% include feature_row id="intro" type="center" %}
+
 Hello!  My name is Itzik, and I'm a math tutor based in the Ann Arbor area.  I've been tutoring math for over 10 years and am capable of helping with a variety of classes, including Algebra 2, Trig, Calculus, and more.
 <br>
 
