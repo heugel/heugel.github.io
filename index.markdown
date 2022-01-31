@@ -5,7 +5,6 @@
 #theme: jekyll-theme-time-machine
 
 layout: splash
-permalink: /home/
 
 header:
   overlay_color: "#000"
