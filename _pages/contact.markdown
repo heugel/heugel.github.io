@@ -4,9 +4,17 @@
 
 #theme: jekyll-theme-time-machine
 
-layout: page
-title: Contact
+#layout: page
+#title: Contact
 permalink: /contact/
+
+defaults:
+  # _pages
+  - scope:
+      path: "/contact/"
+      type: pages
+    values:
+      layout: single
 ---
 
 <!-- modify this form HTML and place wherever you want your form -->
