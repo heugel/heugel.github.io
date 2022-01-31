@@ -33,3 +33,5 @@ permalink: /contact/
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+
+Leave a message and I'll reply as soon as possible :)
