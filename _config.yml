@@ -29,6 +29,7 @@ url: "ikcalc.com" # the base hostname & protocol for your site, e.g. http://exam
 
 # Build settings
 # theme: minima
+include: ["_pages"]
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
