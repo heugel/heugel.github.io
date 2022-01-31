@@ -11,6 +11,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/lonelym2.jpg
   actions:
+    - label: "Download"
+    url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Casey L."
 excerpt: "Always available to help get the grades you want"
 intro: 
