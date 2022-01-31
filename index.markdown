@@ -10,7 +10,7 @@ Hello!  My name is Itzik, and I'm a math tutor based in the Ann Arbor area.  I'v
 
 <br>
 
-I have a BS in Judaic Studies from University of Michigan
+Originally from St. Joseph, I moved here to get my BS in Judaic Studies at the University of Michigan.  While a student there, I also got hands-on experience with programming, video game design, and electrical engineering.
 
 <br>
 
