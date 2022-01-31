@@ -2,7 +2,7 @@
 main:
   - title: "Contact"
     url: /contact/
-   - title: "About Me"
+  - title: "About Me"
      url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
