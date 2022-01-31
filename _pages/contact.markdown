@@ -2,8 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-#theme: jekyll-theme-time-machine
-
 layout: page
 title: Contact
 permalink: /contact/
