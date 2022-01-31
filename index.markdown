@@ -4,7 +4,19 @@
 
 #theme: jekyll-theme-time-machine
 
-layout: home
+layout: splash
+permalink: /home/
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/lonelym2.jpg
+  actions:
+    - label: "Download"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 ---
 Hello!  My name is Itzik, and I'm a math tutor based in the Ann Arbor area.  I've been tutoring math for over 10 years and am capable of helping with a variety of classes, including Algebra 2, Trig, Calculus, and more.
 <br>
