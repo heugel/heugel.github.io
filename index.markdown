@@ -18,4 +18,4 @@ For students near Ann Arbor, I am available for in-person assistance.  For stude
 <br>
 
 
-[Any questions?  Please reach out!](./contact.markdown)
+[Any questions?  Please reach out!](./_pages/contact.markdown)
