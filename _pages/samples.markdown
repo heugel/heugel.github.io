@@ -6,7 +6,7 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-layout: archive
+layout: categories
 title: "Sample Problems"
 author_profile: true
 permalink: /samples/
