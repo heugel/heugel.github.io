@@ -11,15 +11,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/lonelym2.jpg
   actions:
-    - label: "Download"
-    url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Casey L."
 excerpt: "Always available to help get the grades you want"
 intro: 
   - excerpt: 'Let's get started'
 ---
-{% include feature_row id="intro" type="center" %}
-<br>
 
 Hello!  My name is Itzik, and I'm a math tutor based in the Ann Arbor area.  I've been tutoring math for over 10 years and am capable of helping with a variety of classes, including Algebra 2, Trig, Calculus, and more.
 <br>
