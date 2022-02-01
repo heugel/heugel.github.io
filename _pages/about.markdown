@@ -18,20 +18,59 @@ defaults:
       author_profile: false
 permalink: /about/
 
-gallery:
-  - url: /assets/shrekframeSMALL.jpg
-    image_path: /assets/shrekframeSMALL.jpg
+feature_row:
+  - image_path: /assets/shrekframeSMALL.jpg
     alt: "placeholder image 1"
-    title: "I like music"
-  - url: /assets/shrekframeSMALL.jpg
-    image_path: /assets/shrekframeSMALL.jpg
+    title: ""
+    excerpt: ""
+  - image_path: /assets/shrekframeSMALL.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "I like making games"
-  - url: /assets/shrekframeSMALL.jpg
-    image_path: /assets/shrekframeSMALL.jpg
-    alt: "placeholder image 3"
-    title: "I like competing"
+    title: "Music"
+    excerpt: "I like to make music :)"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/shrekframeSMALL.jpg
+    title: ""
+    excerpt: ""
+feature_row2:
+  - image_path: /assets/shrekframeSMALL.jpg
+    alt: "placeholder image 1"
+    title: ""
+    excerpt: ""
+  - image_path: /assets/shrekframeSMALL.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Game Design"
+    excerpt: "I like to make games :)"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/shrekframeSMALL.jpg
+    title: ""
+    excerpt: ""
+feature_row3:
+  - image_path: /assets/shrekframeSMALL.jpg
+    alt: "placeholder image 1"
+    title: ""
+    excerpt: ""
+  - image_path: /assets/shrekframeSMALL.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Melee"
+    excerpt: "I like to make compete :)"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/shrekframeSMALL.jpg
+    title: ""
+    excerpt: ""
 
 ---
 
-{% include gallery %}
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
