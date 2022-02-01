@@ -19,11 +19,11 @@ defaults:
 permalink: /about/
 
 feature_row:
-  - image_path: /assets/lonelym2.jpg
+  - image_path: /assets/shrekframeSMALL.jpg
     alt: "placeholder image 1"
     title: ""
     excerpt: ""
-  - image_path: /assets/lonelym2.jpg
+  - image_path: /assets/shrekframeSMALL.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Music"
@@ -31,11 +31,11 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/lonelym2.jpg
+  - image_path: /assets/shrekframeSMALL.jpg
     title: ""
     excerpt: ""
 feature_row2:
-  - image_path: /assets/lonelym2.jpg
+  - image_path: /assets/shrekframeSMALL.jpg
     alt: "placeholder image 2"
     title: "Game Design"
     excerpt: 'I like making games :)'
@@ -43,7 +43,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/pitchfork.jpg
+  - image_path: /assets/shrekframeSMALL.jpg
     alt: "placeholder image 2"
     title: "Melee"
     excerpt: 'I like to compete :)'
