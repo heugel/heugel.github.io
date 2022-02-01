@@ -26,8 +26,8 @@ feature_row:
   - image_path: /assets/shrekframeSMALL.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Music"
-    excerpt: "I like to make music :)"
+    title: "I like to make music :)"
+    excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -42,8 +42,8 @@ feature_row2:
   - image_path: /assets/shrekframeSMALL.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Game Design"
-    excerpt: "I like to make games :)"
+    title: "I like to make games :)"
+    excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -58,8 +58,8 @@ feature_row3:
   - image_path: /assets/shrekframeSMALL.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Melee"
-    excerpt: "I like to make compete :)"
+    title: "I like to make compete :)"
+    excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
