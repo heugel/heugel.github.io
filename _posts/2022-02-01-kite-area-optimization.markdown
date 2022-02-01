@@ -37,7 +37,7 @@ There we go!  We solved for <i>x</i>.  We can use this equation to also solve fo
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/kitework1.jpg){: .align-center}
 
 I also like to check my answers on [Desmos](https://www.desmos.com/), and these equations check out for multiple values of <i>a</i> and <i>b</i>:
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/desmos1.png){: .align-center}
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/desmos2.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/desmos1.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/desmos2.jpg){: .align-center}
 
 I hope this wasn't too difficult to follow, this being my first post and all.  This problem seemed like a good place to start since I had a hard time finding any other decent solutions online.  I may revisit this post if I end up improving at this.
