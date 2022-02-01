@@ -14,8 +14,8 @@ defaults:
       path: "/_pages/about.markdown"
       type: pages
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
 permalink: /about/
 
 feature_row:
