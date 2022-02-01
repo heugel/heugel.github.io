@@ -34,4 +34,4 @@ permalink: /contact/
   <button type="submit">Send</button>
 </form>
 
-"Leave a message and I'll reply as soon as possible :)"
+Leave a message and I'll reply as soon as possible :)
