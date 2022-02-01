@@ -23,6 +23,9 @@ feature_row:
     alt: "placeholder image 1"
     title: "Music"
     excerpt: "I like to make music :)"
+	url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/lonelym2.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
