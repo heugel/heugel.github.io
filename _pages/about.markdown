@@ -20,26 +20,41 @@ permalink: /about/
 
 feature_row:
   - image_path: /assets/lonelym2.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
-    title: "Music"
-    excerpt: "I like to make music :)"
+    title: ""
+    excerpt: ""
   - image_path: /assets/lonelym2.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Game Design"
-    excerpt: "I like to make games :)"
+    title: "Music"
+    excerpt: "I like to make music :)"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/lonelym2.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-	alt: "placeholder image 3"
+    title: ""
+    excerpt: ""
+feature_row2:
+  - image_path: /assets/lonelym2.jpg
+    alt: "placeholder image 2"
+    title: "Game Design"
+    excerpt: 'I like making games :)'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/lonelym2.jpg
+    alt: "placeholder image 2"
     title: "Melee"
-    excerpt: "I like to compete :)"
-
+    excerpt: 'I like to compete :)'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 ---
 
 {% include feature_row %}
 
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
