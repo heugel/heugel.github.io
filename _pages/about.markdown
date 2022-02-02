@@ -28,7 +28,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "I like to make music :)"
     excerpt: ""
-    url: "#test-link"
+    url: "/music/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/shrekframeSMALL.jpg
@@ -60,7 +60,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "I like to compete :)"
     excerpt: ""
-    url: "#test-link"
+    url: "/melee/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/aboutme/tourny.jpg
