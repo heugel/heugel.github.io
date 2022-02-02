@@ -7,10 +7,9 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 title: "About Me"
-author_profile: true
+author_profile: false
 
-defaults:
-  # _pages
+
   - scope:
       path: "/_pages/about.markdown"
       type: pages
