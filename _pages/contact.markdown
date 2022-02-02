@@ -16,10 +16,6 @@ defaults:
       author_profile: true
 permalink: /contact/
 ---
-
-## Contact
-
-
 <!-- modify this form HTML and place wherever you want your form -->
 <form
   action="https://formspree.io/f/mdobenqd"
