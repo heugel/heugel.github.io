@@ -43,7 +43,7 @@ Great :) now we can plug all 4 answers into the integral to get new integrals:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/newintegral.JPG){: .align-center}
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/newintegral2.JPG){: .align-center}
 
-The first, second, and fourth of these integrals are fairly standard, and should probably me memorized in order to succeed in your calc 2 class.  The third integral can be solved with a pretty quick u-substitution.  The final result should be:
+The first, second, and fourth of these integrals are fairly standard, and should probably be memorized in order to succeed in your calc 2 class.  The third integral can be solved with a pretty quick u-substitution.  The final result should be:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/answer.JPG){: .align-center}
 
 This is my second post here.  For my first post, my work was shown through handwriting, but here, I tried out an equation editor.  Feedback on which is preferred and how else I can improve these posts is always appreciated :)
