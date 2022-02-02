@@ -7,9 +7,9 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 title: "About Me"
-author_profile: false
+author_profile: true
 layout: single
-
+classes: wide
 defaults:
   # _pages
   - scope:

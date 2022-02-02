@@ -6,6 +6,8 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+title: "Contact"
+
 defaults:
   # _pages
   - scope:
@@ -16,8 +18,6 @@ defaults:
       author_profile: true
 permalink: /contact/
 ---
-## Contact
-
 <!-- modify this form HTML and place wherever you want your form -->
 <form
   action="https://formspree.io/f/mdobenqd"
