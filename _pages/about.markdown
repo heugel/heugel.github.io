@@ -9,7 +9,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 title: "About Me"
 author_profile: false
 
-
+defaults:
+  # _pages
   - scope:
       path: "/_pages/about.markdown"
       type: pages
