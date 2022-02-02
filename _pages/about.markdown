@@ -7,6 +7,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 title: "About Me"
+author_profile: true
 
 defaults:
   # _pages
@@ -68,6 +69,7 @@ feature_row3:
     excerpt: ""
 
 ---
+## About Me
 
 {% include feature_row %}
 
