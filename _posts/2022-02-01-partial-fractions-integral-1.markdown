@@ -21,13 +21,13 @@ We want these fractions to have common denominators.  I'll sometimes describe th
 
 Now that everything has a common denominator, we can multiply both sides by said denominator to cancel them out.  Then we can FOIL and expand what's left:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/partialcommoncancel.jpg){: .align-center}
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/expanded.jpg){: .align-center}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/expanded.jpg){: .align-center}
 
 It's nice from here to organize the terms by their power of x, like this:
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/separated.jpg){: .align-center}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/separated.jpg){: .align-center}
 
 Here's some color to emphasize why I like this:
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/colored.jpg){: .align-center}
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/colored.jpg){: .align-center}
 
 For these two sides of the equation to be equal, they need to have the same number of x cubeds, x squareds, etc.  The coefficients need to be equal.  This leads to four equations that we can use to solve for the unknowns:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/partialfracs/matrix.jpg){: .align-center}
