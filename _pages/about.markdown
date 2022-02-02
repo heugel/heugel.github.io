@@ -8,6 +8,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 title: "About Me"
 author_profile: false
+layout: single
 
 defaults:
   # _pages
