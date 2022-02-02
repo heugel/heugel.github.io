@@ -44,7 +44,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "I like to make games :)"
     excerpt: ""
-    url: "#test-link"
+    url: /games/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/aboutme/paintball.jpg
