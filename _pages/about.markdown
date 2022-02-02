@@ -51,19 +51,19 @@ feature_row2:
     title: ""
     excerpt: ""
 feature_row3:
-  - image_path: /assets/shrekframeSMALL.jpg
+  - image_path: /assets/aboutme/rank2018.jpg
     alt: "placeholder image 1"
     title: ""
     excerpt: ""
-  - image_path: /assets/shrekframeSMALL.jpg
+  - image_path: /assets/aboutme/meleegif1.gif
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "I like to make compete :)"
+    title: "I like to compete :)"
     excerpt: ""
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/shrekframeSMALL.jpg
+  - image_path: /assets/aboutme/tourny.jpg
     title: ""
     excerpt: ""
 
