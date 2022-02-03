@@ -42,7 +42,7 @@ feature_row2:
     title: ""
     excerpt: ""
   - image_path: /assets/aboutme/gamegif1.gif
-    image_caption: ""
+    image_caption: "frog"
     alt: "placeholder image 2"
     title: "I like to make games :)"
     excerpt: ""
@@ -61,7 +61,7 @@ feature_row3:
     image_caption: ""
     alt: "placeholder image 2"
     title: "I like to compete :)"
-    excerpt: ""
+    excerpt: "[Slippi](https://slippi.gg/)"
     url: "/melee/"
     btn_label: "Read More"
     btn_class: "btn--primary"

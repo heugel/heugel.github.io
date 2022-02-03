@@ -18,4 +18,4 @@ defaults:
       author_profile: true
 permalink: /melee/
 ---
-WRITE ABOUT MELEE HERE
+In late 2016,
