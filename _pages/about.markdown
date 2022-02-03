@@ -58,10 +58,10 @@ feature_row3:
     title: ""
     excerpt: ""
   - image_path: /assets/aboutme/meleegif1.gif
-    image_caption: ""
+    image_caption: "[Slippi](https://slippi.gg/)"
     alt: "placeholder image 2"
     title: "I like to compete :)"
-    excerpt: "[Slippi](https://slippi.gg/)"
+    excerpt: ""
     url: "/melee/"
     btn_label: "Read More"
     btn_class: "btn--primary"
