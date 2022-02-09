@@ -28,4 +28,5 @@ We can find the third side using the Pythagorean theorem:
 Now that we have all the sides, we can use SOH-CAH-TOA again to find the sine of theta:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/trianglemethod/answer.JPG){: .align-center}
 
-This is possible with [any combination](https://en.wikipedia.org/wiki/Inverse_trigonometric_functions#Relationships_between_trigonometric_functions_and_inverse_trigonometric_functions) of trig and inverse trig functions.  Stay tuned--I will likely add more examples to this post soon :) particularly ones using secant, cosecant, and cotangent.
+This is possible with [any combination](https://en.wikipedia.org/wiki/Inverse_trigonometric_functions#Relationships_between_trigonometric_functions_and_inverse_trigonometric_functions) of trig and inverse trig functions!  Practice some more and check your work on the linked page :)
+
