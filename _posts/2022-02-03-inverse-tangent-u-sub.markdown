@@ -8,7 +8,7 @@ categories: calc1 calc2 integral usub inversetrig log naturallog
 ---
 I see a lot of students struggling to see when an integral is related to inverse trig.  Let's take a look at the inverse tangent in this post.  If an integral can be written like this:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/inversetrigusub/arctanindic.JPG){: .align-center}
-then that's a good indication, <b>but not a gaurantee</b>, that you should do a u-sub where <b>u=f(x)</b>.
+then that's a good indication, <b>but not a guarantee</b>, that you should do a u-sub where <b>u=f(x)</b>.
 
 For example, this:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/inversetrigusub/origproblem.JPG){: .align-center}
