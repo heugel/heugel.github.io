@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name             : "Itzik Khaver"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Quirked up white boy GOATed in the sauce"
+  avatar           : "/assets/profilepic1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Oscar winner for best supporting character in math"
   location         : "Ann Arbor"
   email            :
   links:
