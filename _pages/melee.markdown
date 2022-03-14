@@ -18,4 +18,4 @@ defaults:
       author_profile: true
 permalink: /melee/
 ---
-In late 2016,
+In late 2016, I saw a [documentary](https://www.youtube.com/watch?v=CiodltLYwj8&ab_channel=Drewsome) that would change my life forever.  It's about four hours long and is all about the history of competitive Super Smash Bros Melee.  I started playing myself soon after witnessing how large and intense the scene is, on top of how much fun I remembered having playing that game as a kid, and I've been going to tournaments ever since.  The beginning of my journey was spent at local tournaments, but I've since played in Washington, California, Mexico, Las Vegas, and more.  Through all of this, I've met countless people and have made many friends.  I hope to be able to continue playing for as long as possible.

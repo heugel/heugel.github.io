@@ -30,7 +30,7 @@ My second project (not completely solo this time, since a couple friends helped 
 I've been working on this one on-and-off since late 2017 and I'm not even anywhere close to being done.  It's my first story-driven game, and by far my most ambitious.  There are so many weapons, items, and NPCs, and it's also a semi-open-world game.  This project has been taking so long because I'm not much of a writer, so I take long breaks to think about the direction of the story.  I'm also very limited in my map-making tools, since I decided to stick to the silly stock image style.
 
 ## Paintball Gladiator
-TALK ABOUT PAINTBALL GLADIATOR
+Paintball Gladiator is a game I made in collaboration with a student who is interested in game design.  It's a fairly difficult first-person game where you defeat monsters in the Roman Colosseum with a paintball gun.  It's also available for free on the Google Play Store!  Maybe you should check it out :)
 
 ## Sky High Driving
-TALK ABOUT SKY HIGH DRIVING
+This driving game was another collaboration project with the same student mentioned above.  The goal here is to not fall off the procedurally generated track for as long as you can.  This one is also available for free on the Google Play Store, and we worked hard to include an online leaderboard.  So try it out, please--I hope to see some new names on the high scores list :)

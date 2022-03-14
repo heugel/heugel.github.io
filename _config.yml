@@ -20,7 +20,7 @@ title                    : "Itzik Khaver Math Tutoring"
 title_separator          : "-"
 subtitle                 : "For homework help, test prep, and review" # site tagline that appears below site title in masthead
 name                     : "Itzik Khaver"
-description              : "Math love, musician, game developer"
+description              : "Your next math tutor :)"
 url                      : "https://ikcalc.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Itzik Khaver"
   avatar           : "/assets/profilepic1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Oscar winner for best supporting character in math"
+  bio              : "Helping students succeed in math since 2011"
   location         : "Ann Arbor"
   email            :
   links:
@@ -114,7 +114,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://ikcalc.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
