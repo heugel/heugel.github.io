@@ -33,7 +33,7 @@ feature_row:
     url: "/music/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/aboutme/mixcraft.JPG
+  - image_path: /assets/aboutme/mixcraftCROP.jpg
     title: ""
     excerpt: ""
 feature_row2:
