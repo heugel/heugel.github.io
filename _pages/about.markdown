@@ -21,11 +21,11 @@ defaults:
 permalink: /about/
 
 feature_row:
-  - image_path: /assets/aboutme/bandme.jpg
+  - image_path: /assets/aboutme/bandmeSMALL.jpg
     alt: "placeholder image 1"
     title: ""
     excerpt: ""
-  - image_path: /assets/aboutme/pianogif.gif
+  - image_path: /assets/aboutme/pianogifSMALL.gif
     image_caption: ""
     alt: "placeholder image 2"
     title: "I like to make music :)"
