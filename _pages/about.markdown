@@ -21,11 +21,11 @@ defaults:
 permalink: /about/
 
 feature_row:
-  - image_path: /assets/shrekframeSMALL.jpg
+  - image_path: /assets/aboutme/bandme.jpg
     alt: "placeholder image 1"
     title: ""
     excerpt: ""
-  - image_path: /assets/shrekframeSMALL.jpg
+  - image_path: /assets/aboutme/pianogif.gif
     image_caption: ""
     alt: "placeholder image 2"
     title: "I like to make music :)"
@@ -33,7 +33,7 @@ feature_row:
     url: "/music/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/shrekframeSMALL.jpg
+  - image_path: /assets/aboutme/mixcraftSMALL.jpg
     title: ""
     excerpt: ""
 feature_row2:
