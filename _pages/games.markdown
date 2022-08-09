@@ -28,6 +28,8 @@ This was my very first completely solo project, and I used it as a learning expe
 ## m0nst3rz
 My second project (not completely solo this time, since a couple friends helped me with the art) started because I had no spring break plans in 2017, so I decided to make something awful.  I just wanted to make the absolute worst version of Pokemon possible.  Weird creature designs, unfair moves, unpredictable type match-ups, and pickpockets that randomly steal all your money all make appearances.  I decided on a new artistic direction for this game--I edited together stock images instead of drawing my assets.  Through this project, I fell in love with this style.  I find it both hilarious and fun to make.
 
+I recently revisted this project to implement multiplayer battling and trading and to upload to the Google Play Store, so feel free to download it and battle your friends :)
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/aboutme/moninv.jpg){: .align-center}
 
 ## frog
